@@ -1,7 +1,7 @@
 
 # LOAN APPROVAL DATASET
 
-Develop a machine learning model to predict whether a loan application should be approved or denied based on historical data.link text.
+Develop a machine learning model to predict whether a loan application should be approved or denied based on historical data.
 
 Dataset is a classification model,The model will classify loan applications into two categories: approved or denied.The model should output a probability score for approval and a final classification (approved/denied).
 
